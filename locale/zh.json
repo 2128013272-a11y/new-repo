@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "New Repo 入门插件",
+    "description": "一个可从 Git 安装的最小演示插件，注册 new_repo_ping 工具。"
+  }
+}

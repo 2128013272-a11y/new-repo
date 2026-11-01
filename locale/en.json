@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "New Repo Starter",
+    "description": "A tiny Git-installable demo plugin that registers the new_repo_ping tool."
+  }
+}

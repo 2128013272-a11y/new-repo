@@ -1,0 +1,5 @@
+# Inserted when this bundle is enabled. The row id and module name must be unique.
+- insert:
+    - id: dsh-new-repo
+      name: '@2128013272-a11y/dsh-new-repo'
+      config: {}
